@@ -22,6 +22,7 @@ This project analyzes e-commerce sales data using Python.
 
 ### Monthly Sales Trend
 <img width="1900" height="918" alt="yearly avg_sales" src="https://github.com/user-attachments/assets/ac8176bc-3d8b-404c-aa9e-7f9c9436fe38" />
+
 <img width="1903" height="902" alt="top_5_products" src="https://github.com/user-attachments/assets/19b71f23-c16e-4e54-baa5-daf67b169c0f" />
 <img width="1902" height="900" alt="profit_margin" src="https://github.com/user-attachments/assets/fd450fea-d647-4183-b9ba-d76c1a659d11" />
 <img width="1902" height="912" alt="sales_profit_quantitiy_distribution" src="https://github.com/user-attachments/assets/f812341f-8c25-4483-9861-6aaaa5980e19" />
